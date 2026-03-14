@@ -1,0 +1,62 @@
+# Jayson Tatum Fan Site
+
+A modern, responsive fan website dedicated to Jayson Tatum, NBA Champion and Boston Celtics star.
+
+## About
+
+This is an unofficial fan site celebrating Jayson Tatum's career and achievements. The website features:
+
+- **Hero Section**: Introduction with Jayson Tatum's name and the Boston Celtics logo
+- **Career Statistics**: Detailed stats including points, rebounds, assists, and more
+- **Career Highlights**: Key achievements and milestones
+- **About Section**: Background information about Jayson's career
+- **Social Media**: Links to official social media accounts
+
+## Tech Stack
+
+- **React 19** - UI framework
+- **TypeScript** - Type safety
+- **Vite** - Build tool and development server
+- **Tailwind CSS** - Styling
+- **Framer Motion** - Animations
+- **Three.js** - 3D graphics and shaders
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- pnpm (recommended) or npm
+
+### Installation
+
+```bash
+# Install dependencies
+pnpm install
+
+# Start development server
+pnpm dev
+
+# Build for production
+pnpm build
+```
+
+## Features
+
+- 🎨 Beautiful gradient text effects
+- 📱 Fully responsive design
+- 🏀 Boston Celtics themed green color scheme
+- ✨ Smooth animations and transitions
+- 🖼️ Three.js shader animations
+
+## License
+
+This is an unofficial fan site. All NBA player statistics, images, and trademarks belong to their respective owners.
+
+See [LICENSE](LICENSE) for more details.
+
+## Credits
+
+- Jayson Tatum - NBA Player
+- Boston Celtics - NBA Team
+- Built with React, TypeScript, and Tailwind CSS
