@@ -2,6 +2,14 @@
 
 A modern, responsive fan website dedicated to Jayson Tatum, NBA Champion and Boston Celtics star.
 
+## Live Demo
+
+Visit the live site: **https://iam269.github.io/jaysontatum/**
+
+## Screenshots
+
+![Jayson Tatum Fan Site](src/assets/screenshot.png)
+
 ## About
 
 This is an unofficial fan site celebrating Jayson Tatum's career and achievements. The website features:
@@ -40,6 +48,24 @@ pnpm dev
 # Build for production
 pnpm build
 ```
+
+### Deploy to GitHub Pages
+
+1. Create a new GitHub repository
+2. Push your code to the repository
+3. Go to Repository Settings → Pages
+4. Select the `main` branch as the source
+5. Set the folder to `dist`
+6. Click Save
+
+Or use the CLI:
+
+```bash
+# Build and deploy to GitHub Pages
+npm run deploy
+```
+
+**Note:** Make sure your repository is set to public for free GitHub Pages, or enable GitHub Pages in your repository settings.
 
 ## Features
 
