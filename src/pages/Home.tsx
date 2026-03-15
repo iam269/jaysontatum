@@ -83,7 +83,7 @@ export default function Home() {
               <img 
                 src={bostonCelticsLogo} 
                 alt="Boston Celtics Logo" 
-                className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 object-contain drop-shadow-2xl"
+                className="w-80 h-80 md:w-96 md:h-96 lg:w-[500px] lg:h-[500px] object-contain drop-shadow-2xl"
               />
             </motion.div>
           </div>
