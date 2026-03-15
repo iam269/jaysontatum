@@ -1,26 +1,31 @@
-# Jayson Tatum Fan Site
+# 🏀 Jayson Tatum Fan Site
+
 
 A modern, responsive fan website dedicated to Jayson Tatum, NBA Champion and Boston Celtics star.
 
-## Live Demo
+## 🌐 Live Demo
+
 
 Visit the live site: **https://iam269.github.io/jaysontatum/**
 
-## Screenshots
+## 📸 Screenshots
+
 
 ![Jayson Tatum Fan Site](src/assets/screenshot.png)
 
-## About
+## 📖 About
+
 
 This is an unofficial fan site celebrating Jayson Tatum's career and achievements. The website features:
 
-- **Hero Section**: Introduction with Jayson Tatum's name and the Boston Celtics logo
-- **Career Statistics**: Detailed stats including points, rebounds, assists, and more
-- **Career Highlights**: Key achievements and milestones
-- **About Section**: Background information about Jayson's career
-- **Social Media**: Links to official social media accounts
+- **Hero Section**: Introduction with Jayson Tatum's name and the Boston Celtics logo 🏀
+- **Career Statistics**: Detailed stats including points, rebounds, assists, and more 📊
+- **Career Highlights**: Key achievements and milestones 🌟
+- **About Section**: Background information about Jayson's career 📋
+- **Social Media**: Links to official social media accounts 📱
 
-## Tech Stack
+## ⚙️ Tech Stack
+
 
 - **React 19** - UI framework
 - **TypeScript** - Type safety
@@ -29,14 +34,17 @@ This is an unofficial fan site celebrating Jayson Tatum's career and achievement
 - **Framer Motion** - Animations
 - **Three.js** - 3D graphics and shaders
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+
+### 📋 Prerequisites
+
 
 - Node.js 18+
 - pnpm (recommended) or npm
 
-### Installation
+### 📦 Installation
+
 
 ```bash
 # Install dependencies
@@ -49,7 +57,8 @@ pnpm dev
 pnpm build
 ```
 
-### Deploy to GitHub Pages
+### 🚀 Deploy to GitHub Pages
+
 
 1. Create a new GitHub repository
 2. Push your code to the repository
@@ -67,7 +76,8 @@ npm run deploy
 
 **Note:** Make sure your repository is set to public for free GitHub Pages, or enable GitHub Pages in your repository settings.
 
-## Features
+## ✨ Features
+
 
 - 🎨 Beautiful gradient text effects
 - 📱 Fully responsive design
@@ -75,13 +85,15 @@ npm run deploy
 - ✨ Smooth animations and transitions
 - 🖼️ Three.js shader animations
 
-## License
+## 📄 License
+
 
 This is an unofficial fan site. All NBA player statistics, images, and trademarks belong to their respective owners.
 
 See [LICENSE](LICENSE) for more details.
 
-## Credits
+## 🙏 Credits
+
 
 - Jayson Tatum - NBA Player
 - Boston Celtics - NBA Team
